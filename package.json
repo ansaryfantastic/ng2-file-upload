@@ -37,7 +37,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:ansaryfantastic/ng2-file-upload.git"
+    "url": "git+ssh://git@github.com:ansaryfantastic/ng2-file-upload.git#development"
   },
   "bugs": {
     "url": "https://github.com/valor-software/ng2-file-upload/issues"
